@@ -1,7 +1,7 @@
-# covid19-data-visualisation
-A Python data visualisation project analysing COVID-19 case and death statistics using pandas and Matplotlib.
-# COVID-19 Data Visualisation
 
+
+# COVID-19 Data Visualisation
+A Python data visualisation project analysing COVID-19 case and death statistics using pandas and Matplotlib.
 This project uses Python, Pandas, and Matplotlib to process COVID-19 data and create a line graph showing confirmed cases, deaths, and daily confirmed cases from **5 March to 12 June 2020**.
 
 ## Project Files
